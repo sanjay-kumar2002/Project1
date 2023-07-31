@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Hello
-=======
-Hiii
->>>>>>> 8f279e1bf1e37578daeb2ced47d2ddb17784502a
+print("Hii")
+
+for i in range(1,100):
+    print(i)
